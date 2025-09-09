@@ -11,7 +11,7 @@ I'm a Computer Science student entering my 3rd year at the University of Southam
 - 📫 Reach me at: raphhudson84@gmail.com
 
 # 🛠️ Skills 
-- Languages: Python, Java, Haskell, SQL, Rust
+- Languages: Python, Java, Haskell, SQL
 - Other: Sprint Boot, PostgreSQL, Docker, Maven, Gradle
 
 # 🔥 My Latest Projects
