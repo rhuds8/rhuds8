@@ -3,7 +3,7 @@
 I'm a Computer Science student entering my 3rd year at the University of Southampton, passionate about machine learning, AI, cybersecurity, and software engineering.
 
 # ✨ About Me 
-- 🔭 I'm currently working on a 2D U-Net Organ Segmentation project using Federated Learning.
+- 🔭 I'm currently working on a 3D U-Net Organ Segmentation project using Federated Learning.
 - 🌱 I'm currently studying:
   -> Foundations of Machine Learning
   -> Computer Vision
